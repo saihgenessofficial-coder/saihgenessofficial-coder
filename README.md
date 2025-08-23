@@ -27,6 +27,13 @@ Atualmente estudando **HarvardX (edX) – CS50x**.
 - **Secure EC2 Publish (AWS):** Elastic IP, acesso somente por chave SSH, Security Groups restritos; Nginx com TLS em **:443** → proxy para serviço **localhost:8545** (JSON-RPC).  
 - **OpenSSH on Windows:** Correção de ACLs para `.pem` e `known_hosts` (remover herança; **SYSTEM:(F)**; usuário **(R/M)**) garantindo conexões estáveis.
 
+## 🚀 Projetos em destaque
+
+[![Latest Release](https://img.shields.io/github/v/release/saihgenessofficial-coder/secure-publish?include_prereleases&label=secure-publish)](https://github.com/saihgenessofficial-coder/secure-publish/releases)
+[![Nginx CI](https://github.com/saihgenessofficial-coder/secure-publish/actions/workflows/nginx-ci.yml/badge.svg)](https://github.com/saihgenessofficial-coder/secure-publish/actions/workflows/nginx-ci.yml)
+📜 [CHANGELOG](https://github.com/saihgenessofficial-coder/secure-publish/blob/main/CHANGELOG.md)
+
+
 > Vou fixar (“pin”) meus projetos no topo do perfil assim que os repositórios forem publicados:
 > - `aws-ec2-secure-publish`  
 > - `windows-ssh-permissions`
