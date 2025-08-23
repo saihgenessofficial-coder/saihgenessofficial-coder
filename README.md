@@ -29,9 +29,10 @@ Atualmente estudando **HarvardX (edX) – CS50x**.
 
 ## 🚀 Projetos em destaque
 
-[![Latest Release](https://img.shields.io/github/v/release/saihgenessofficial-coder/secure-publish?include_prereleases&label=secure-publish)](https://github.com/saihgenessofficial-coder/secure-publish/releases)
-[![Nginx CI](https://github.com/saihgenessofficial-coder/secure-publish/actions/workflows/nginx-ci.yml/badge.svg)](https://github.com/saihgenessofficial-coder/secure-publish/actions/workflows/nginx-ci.yml)
-📜 [CHANGELOG](https://github.com/saihgenessofficial-coder/secure-publish/blob/main/CHANGELOG.md)
+<!-- aws-ec2-secure-publish -->
+[![Latest Release](https://img.shields.io/github/v/release/saihgenessofficial-coder/aws-ec2-secure-publish?include_prereleases&label=aws-ec2-secure-publish)](https://github.com/saihgenessofficial-coder/aws-ec2-secure-publish/releases)
+[![Nginx CI](https://github.com/saihgenessofficial-coder/aws-ec2-secure-publish/actions/workflows/nginx-ci.yml/badge.svg)](https://github.com/saihgenessofficial-coder/aws-ec2-secure-publish/actions/workflows/nginx-ci.yml)
+📜 [CHANGELOG](https://github.com/saihgenessofficial-coder/aws-ec2-secure-publish/blob/main/CHANGELOG.md)
 
 
 > Vou fixar (“pin”) meus projetos no topo do perfil assim que os repositórios forem publicados:
