@@ -1,0 +1,3 @@
+# Runtime dependencies
+reportlab>=3.6
+Pillow>=10.0

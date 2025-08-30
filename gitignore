@@ -1,0 +1,46 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+dist/
+build/
+.python-version
+
+# ---- Virtual envs ----
+.venv/
+venv/
+env/
+
+# ---- Tool caches / test artifacts ----
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+.cache/
+
+# ---- Editors / IDE ----
+.vscode/
+.idea/
+*.code-workspace
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+
+# ---- Project outputs (generated) ----
+# Artefatos gerados pelos scripts (JSON/PDF/QR/etc.)
+bantu_generator/output/
+**/manifest_*.json
+**/s3_upload_*.sh
+
+# ---- Secrets / env (não versionar) ----
+.env
+.env.*
+*.pem
+*.key
+*.crt
