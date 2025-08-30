@@ -1,0 +1,6 @@
+id_conta,nome,tipo_conta,endereco_evm,status,observacoes
+,Igreja Trono e Glória,ministerio,0x0000000000000000000000000000000000000000,publico,Conta oficial de ministério.
+,Zauquiel Divine Gates,levita,0x1111111111111111111111111111111111111111,publico,Conta de levita.
+,Governo de Angola,governo,0x2222222222222222222222222222222222222222,publico,Conta governamental para auditoria.
+,Fundo Soberano Universal,investidor,0x3333333333333333333333333333333333333333,privado,Investidor institucional.
+,Claudia Simba,cliente,0x4444444444444444444444444444444444444444,privado,Conta de cliente (pessoa física).
